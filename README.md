@@ -1,3 +1,3 @@
-# UQ-Code
+# Groundwater Modeling
 
-Yup, this is definitely a read-me file. I'm mainly doing this for my class.
+Yup, this is definitely a read-me file. 
